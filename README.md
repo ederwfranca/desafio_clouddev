@@ -32,8 +32,7 @@ Nesta estapa instalamos as dependências necessárias. Entre na pasta criada e d
 	$ npm init -y && npm install
 ```
 
-#Deploy
-Terminado as configuações vamos realizar a implantação! Basta digitar no console:
+#Configurações finalizadas basta realizar o Deploy para realizar a implantação! Basta digitar no console:
 ```
 	$ serverless deploy
 ```
