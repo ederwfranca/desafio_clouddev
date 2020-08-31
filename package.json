@@ -1,12 +1,16 @@
 {
   "name": "desafioDockdev",
   "version": "1.0.0",
-  "description": "This repo has been created by Eder franca <eder.franca@hotmail.com> for this tutorial",
+  "description": "This repo has been created by Eder Franca",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: validade script\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": " Eder Franca <ederwfranca@hotmail.com>",
   "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ederwfranca/desafio_clouddev.git"
+  },
 }
