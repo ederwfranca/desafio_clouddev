@@ -1,0 +1,12 @@
+{
+  "name": "desafioDockdev",
+  "version": "1.0.0",
+  "description": "This repo has been created by Eder franca <eder.franca@hotmail.com> for this tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
