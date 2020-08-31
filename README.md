@@ -35,5 +35,3 @@ Nesta estapa instalamos as dependências necessárias. Entre na pasta criada e d
 #Deploy
 Terminado as configuações vamos realizar a implantação! Basta digitar no console:
 $ serverless deploy 
-
-Aqui, o link para o repositório bitbucket
